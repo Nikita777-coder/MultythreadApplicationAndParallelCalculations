@@ -1,0 +1,34 @@
+#######################Round#######################
+	List of monahs before fight:
+					Monah with ci = 3
+					Monah with ci = 2
+					Monah with ci = 6
+					Monah with ci = 7
+
+	Pairs are generated and:
+			Monah with ci = 3 beat Monah with ci = 7
+			Monah with ci = 7 was won
+			Monah with ci = 6 beat Monah with ci = 7
+			Monah with ci = 7 was won
+
+	List of monahs after fight:
+					Monah with ci = 2
+					Monah with ci = 7
+
+
+
+#######################Round#######################
+	List of monahs before fight:
+					Monah with ci = 2
+					Monah with ci = 7
+
+	Pairs are generated and:
+			Monah with ci = 2 beat Monah with ci = 7
+			Monah with ci = 7 was won
+
+	List of monahs after fight:
+					Monah with ci = 7
+
+
+
+Monah with ci = 7 won!

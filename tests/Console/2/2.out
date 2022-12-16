@@ -1,0 +1,88 @@
+#######################Round#######################
+	List of monahs before fight:
+					Monah with ci = 9
+					Monah with ci = 4334243
+					Monah with ci = 75767
+					Monah with ci = 65765675
+					Monah with ci = 765757
+					Monah with ci = 8687679
+					Monah with ci = 656858568
+					Monah with ci = 5646465
+					Monah with ci = 8656568
+					Monah with ci = 9679679
+
+	Pairs are generated and:
+			Monah with ci = 9 beat Monah with ci = 8687679
+			Monah with ci = 8687679 was won
+			Monah with ci = 75767 beat Monah with ci = 8656568
+			Monah with ci = 8656568 was won
+			Monah with ci = 765757 beat Monah with ci = 9679679
+			Monah with ci = 9679679 was won
+			Monah with ci = 656858568 beat Monah with ci = 9679679
+			Monah with ci = 656858568 was won
+			Monah with ci = 5646465 beat Monah with ci = 9679679
+			Monah with ci = 9679679 was won
+
+	List of monahs after fight:
+					Monah with ci = 4334243
+					Monah with ci = 65765675
+					Monah with ci = 8687679
+					Monah with ci = 656858568
+					Monah with ci = 8656568
+
+
+
+#######################Round#######################
+	List of monahs before fight:
+					Monah with ci = 4334243
+					Monah with ci = 65765675
+					Monah with ci = 8687679
+					Monah with ci = 656858568
+					Monah with ci = 8656568
+
+	Pairs are generated and:
+			Monah with ci = 4334243 beat Monah with ci = 8687679
+			Monah with ci = 8687679 was won
+			Monah with ci = 8687679 beat Monah with ci = 8656568
+			Monah with ci = 8687679 was won
+			Monah with ci = 8656568 wasn't fight that's why his power will increase in 2 times
+
+	List of monahs after fight:
+					Monah with ci = 65765675
+					Monah with ci = 8687679
+					Monah with ci = 656858568
+
+
+
+#######################Round#######################
+	List of monahs before fight:
+					Monah with ci = 65765675
+					Monah with ci = 8687679
+					Monah with ci = 656858568
+
+	Pairs are generated and:
+			Monah with ci = 65765675 beat Monah with ci = 8687679
+			Monah with ci = 65765675 was won
+			Monah with ci = 656858568 wasn't fight that's why his power will increase in 2 times
+
+	List of monahs after fight:
+					Monah with ci = 65765675
+					Monah with ci = 656858568
+
+
+
+#######################Round#######################
+	List of monahs before fight:
+					Monah with ci = 65765675
+					Monah with ci = 656858568
+
+	Pairs are generated and:
+			Monah with ci = 65765675 beat Monah with ci = 656858568
+			Monah with ci = 656858568 was won
+
+	List of monahs after fight:
+					Monah with ci = 656858568
+
+
+
+Monah with ci = 656858568 won!

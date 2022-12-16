@@ -1,0 +1,32 @@
+#######################Round#######################
+	List of monahs before fight:
+					Monah with ci = 7
+					Monah with ci = 5
+					Monah with ci = 9
+
+	Pairs are generated and:
+			Monah with ci = 7 beat Monah with ci = 5
+			Monah with ci = 7 was won
+			Monah with ci = 9 wasn't fight that's why his power will increase in 2 times
+
+	List of monahs after fight:
+					Monah with ci = 7
+					Monah with ci = 9
+
+
+
+#######################Round#######################
+	List of monahs before fight:
+					Monah with ci = 7
+					Monah with ci = 9
+
+	Pairs are generated and:
+			Monah with ci = 7 beat Monah with ci = 9
+			Monah with ci = 9 was won
+
+	List of monahs after fight:
+					Monah with ci = 9
+
+
+
+Monah with ci = 9 won!
